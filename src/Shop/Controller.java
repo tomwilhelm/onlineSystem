@@ -1,4 +1,4 @@
-package Server;
+package Shop;
 
 public class Controller {
 }

@@ -1,4 +1,4 @@
-package Client;
+package Admin;
 
 public class Controller {
 }
